@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portdoverelectrician.ca/sitemap-index.xml
